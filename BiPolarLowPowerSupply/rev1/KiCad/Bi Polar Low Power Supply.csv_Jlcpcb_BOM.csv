@@ -1,0 +1,28 @@
+Comment,Designator,Footprint,LCSC Part #
+0.1uF,C1,C_0402_1005Metric,JLCPcbRef
+3.7V INTO REG,J4,PinHeader_1x01_P2.54mm_Vertical,JLCpcbRef
+3.7V FROM CHARGER,J2,PinHeader_1x01_P2.54mm_Vertical,JLCpcbRef
+BATT -,J7,PinHeader_1x01_P2.54mm_Vertical,JLCpcbRef
+BATT+,J6,PinHeader_1x01_P2.54mm_Vertical,JLCpcbRef
+0.1uF,C3,C_0402_1005Metric,JLCpcbRef
+5V Out to Charger,J8,PinHeader_1x01_P2.54mm_Vertical,JLCpcbRef
+0V FROM CHARGER,J5,PinHeader_1x01_P2.54mm_Vertical,JLCpcbRef
+3.7V FROM CHARGER,J1,PinHeader_1x01_P2.54mm_Vertical,JLCpcbRef
+0V Out to charger,J9,PinHeader_1x01_P2.54mm_Vertical,JLCpcbRef
+LED,D1,LED_D3.0mm_FlatTop,JLCpcbRef
+1k,R1,R_0603_1608Metric,JLCpcbRef
+0V GND,J11,PinHeader_1x01_P2.54mm_Vertical,JLCpcbRef
+9V-18V Input,J3,PinHeader_1x02_P2.54mm_Vertical,JLCpcbRef
+-3.3V,J12,PinHeader_1x01_P2.54mm_Vertical,JLCpcbRef
++3.3V,J10,PinHeader_1x01_P2.54mm_Vertical,JLCpcbRef
+10uF,C5,CP_Elec_4x5.7,JLCpcbRef
+MAX1044,U3,SOIC-8_3.9x4.9mm_P1.27mm,JLCpcbRef
+100uF,C7,CP_Elec_6.3x7.7,JLCpcbRef
+100uF,C6,CP_Elec_6.3x7.7,JLCpcbRef
+100uF,C10,CP_Elec_6.3x7.7,JLCpcbRef
+100uF,C9,CP_Elec_6.3x7.7,JLCpcbRef
+LD1117S33TR_SOT223,U2,SOT-223-3_TabPin2,JLCpcbRef
+10uF,C4,C_0603_1608Metric,JLCpcbRef
+100nF,C2,C_0603_1608Metric,JLCpcbRef
+10uF,C8,CP_Elec_4x5.7,JLCpcbRef
+L7805,U1,TO-263-2,JLCpcbRef
